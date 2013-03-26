@@ -1,4 +1,4 @@
-This my first operating system. It is a very improvement developped version of  Skelix by Xiaoming.
+This my first operating system. It is a very improvement version of  Skelix by Xiaoming.
 
 It was tested and it work seccesfully on both BOCHS VIRTUAL PC and real computer.
 
