@@ -1,12 +1,22 @@
-This my first operating system.It is in fact a developped version of  Skelix by Xiaoming.
-It was tested and it work seccesfully  in bochs,VIRTUAL PC and real computer.But I don't assume any responsabity if it cause any problem for if anyone try to test it in real computer.
-AVAIBLE COMMANDS
-	Press F1 F2 to switch screen
+This my first operating system. It is a very improvent developped version of  Skelix by Xiaoming.
+
+It was tested and it work seccesfully on both BOCHS VIRTUAL PC and real computer.
+
+AVAILABLE COMMANDS:
+
+
+
+	Press F1 F2 to switch between screens	
 	help
 	info
-	reboot
-	test
-	date
-	time
-Riadh Chtara 10:02 06-09-2007
+	reboot	
+	test	
+	date	
+	time	
+Riadh Chtara
+
 riadh.chtara@gmail.com
+
+10:02 06-09-2007
+
+
